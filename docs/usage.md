@@ -5,3 +5,4 @@ Notes and usage details for mcp-1panel.
 - link the usage section
 - fix a small wording issue
 - clarify the setup steps
+- link the usage section

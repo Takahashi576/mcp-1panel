@@ -7,3 +7,4 @@ Notes and usage details for mcp-1panel.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section
